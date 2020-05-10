@@ -1,2 +1,2 @@
-Edit#1 master
+Master Line
 Hello, this is NewBranch first Edit
